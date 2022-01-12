@@ -13,7 +13,7 @@ https://user-images.githubusercontent.com/60168324/148861824-eb0c3ae0-b922-4fc5-
 
 ## Launch
 
-View the Potluck Invite exercise here: https://marisabrantley.github.io/event-listeners-and-handlers-exercise/
+View the Potluck Invite exercise here: https://marisabrantley.github.io/potluck-invite-exercise/
 
 ## Class
 
